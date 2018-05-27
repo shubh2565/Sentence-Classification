@@ -12,6 +12,7 @@ max_features is the hyperparameter which is tweaked to get the better result:
   * max_features=2000 gives 76.44% accuracy
   * max_features=3000 gives 80.13% accuracy
   * max_features=5000 gives 80.77% accuracy
+
 Therefore, max_features=3000 is selected. Bigger values enhaced the performance very little but required considerable bigger memory. So, they were discarded.
 
 Therefore, accuracy of 80.13% is achieved with the Naive Bayes model.
