@@ -1,7 +1,7 @@
 # Sentence-Classification
 
 This project aims at sentence classification for the UCI dataset (https://archive.ics.uci.edu/ml/datasets/Sentence+Classification).
-Naive Bayes model is used for the given problem because of varrious advantages it has over traditional classification algorithms like SVM.
+Naive Bayes model is used for the given problem because of various advantages it has over traditional classification algorithms like SVM.
 
 The rationale behind using this model is :
   * it relies on a very simple representation of the document (called the bag of words representation)
